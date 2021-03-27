@@ -1,5 +1,6 @@
-# Film List OLD
+Film List
+=========
 
-Early JavaScript Based version of the filmList Project. Who knows, I may come back to this, tidy it up with some CSS and finish it off.
+Early JavaScript based version of the filmList Project.
 
-Potential: Intergrate this with drive similar to the Python version so that upon webpage load populated film List is present.
+Basic, simple begginer JS project when I first was experiementing with DOM manipulation.
