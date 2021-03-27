@@ -1,0 +1,9 @@
+body {
+    margin: auto;
+    width: 50%;
+}
+
+#container {
+    border: 1px solid black;
+    padding: 20px;
+}
